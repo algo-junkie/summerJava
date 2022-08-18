@@ -10,5 +10,6 @@ public class Play {
         for (IConsole game : games) {
             game.move();
         }
+        System.out.println("Game Over");
     }
 }
