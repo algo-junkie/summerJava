@@ -11,5 +11,6 @@ public class Play {
             game.move();
         }
         System.out.println("Game Over");
+        System.out.println("Grammy");
     }
 }
