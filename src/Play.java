@@ -12,5 +12,6 @@ public class Play {
         }
         System.out.println("Game Over");
         System.out.println("Grammy");
+        System.out.println("On T430 now");
     }
 }
